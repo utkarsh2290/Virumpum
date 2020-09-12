@@ -187,7 +187,7 @@ header.sticky ul li a
     border-left: 4px solid white; 
     height: 150px; 
     position: absolute; 
-    right: 25%;
+    right: 23%;
     top: 30%; 
    
 }
@@ -387,6 +387,25 @@ header.sticky ul li a
         width: 25%;
         box-sizing: border-box;
     }
+
+    .key #para2{
+        font-size: 24px;
+    }
+
+    .key2 #first {
+        font-size: large;
+        margin-top: 34px;
+    }
+
+    .key2 #second {
+        font-size: large;
+        margin-top: 34px;
+
+    }
+#para {
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
     .forest{
         display:flex;
         justify-content:space-around;
@@ -420,7 +439,7 @@ header.sticky ul li a
         }
         .musu
         {
-           margin-left: 50px;
+           margin-left: 20px;
            margin-top:20px;
            margin-bottom: 20px;
     
